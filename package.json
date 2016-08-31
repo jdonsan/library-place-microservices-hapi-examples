@@ -1,0 +1,29 @@
+{
+  "name": "library-place-microservices-hapi-examples",
+  "version": "1.0.0",
+  "description": "exemplo de hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdonsan/library-place-microservices-hapi-examples.git"
+  },
+  "keywords": [
+    "hapi",
+    "node",
+    "example",
+    "abismodenull"
+  ],
+  "author": "jdonsan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdonsan/library-place-microservices-hapi-examples/issues"
+  },
+  "homepage": "https://github.com/jdonsan/library-place-microservices-hapi-examples#readme",
+  "dependencies": {
+    "hapi": "^15.0.2"
+  }
+}
